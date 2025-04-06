@@ -23,7 +23,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3>Programming and Markup Languages</h3>
-<p>
+<p align="center">
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=fff&style=flat"></a>
@@ -40,7 +40,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
 </p>
 
 <h3>Databases and Cloud Hosting</h3>
-<p>
+<p align="center">
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat"></a>
@@ -51,7 +51,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
 </p>
 
 <h3>Software and Tools</h3>
-<p>
+<p align="center">
   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>

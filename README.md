@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Dorian Estefan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="left" width=300px alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="left" width=300px alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 <p align="left">
 Computer Engineering student in the final stage of my degree. Passionate about software development and constantly exploring new technologies. I enjoy tackling technical challenges and using creative approaches to build innovative solutions.
     <br><br>
@@ -20,7 +20,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
 </p>
 
 ## My Skills Include
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif">
 
 <h3>Programming and Markup Languages</h3>
 <p>

@@ -1,4 +1,28 @@
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<h1 align="center"><b>Hi, I'm Dorian Estefan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="left" width=300px alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<p align="left">
+Computer Engineering student in the final stage of my degree. Passionate about software development and constantly exploring new technologies. I enjoy tackling technical challenges and using creative approaches to build innovative solutions.
+    <br>
+    🌱 Currently diving into:
+    <br>&emsp;
+    - Game development with Unity
+    <br>&emsp;
+    - Artificial Intelligence fundamentals
+    <br>&emsp;
+    - Nest.js and Angular frameworks
+    <br>
+    <br>
+    👯 Looking to collaborate on open-source projects
+    <br>
+    💡 Always excited to learn and create something new
+    <br>
+    <br>
+    <br>
+</p>
+
+## My Skills Include
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <h3>Programming and Markup Languages</h3>
 <p>
@@ -48,6 +72,4 @@
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Estefan1001&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Estefan1001&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
-  <br>
-  <br>
  </p>

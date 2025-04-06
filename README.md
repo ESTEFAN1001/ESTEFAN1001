@@ -6,9 +6,9 @@ Computer Engineering student in the final stage of my degree. Passionate about s
     <br><br>
     🌱 Currently diving into:
     <br>&emsp;
-    - Game development with Unity
+    - Game development
     <br>&emsp;
-    - Artificial Intelligence fundamentals
+    - Artificial Intelligence
     <br>&emsp;
     - Nest.js and Angular frameworks
     <br>

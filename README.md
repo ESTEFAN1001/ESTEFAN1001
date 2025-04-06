@@ -3,7 +3,7 @@
 <img align="left" width=300px alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <p align="left">
 Computer Engineering student in the final stage of my degree. Passionate about software development and constantly exploring new technologies. I enjoy tackling technical challenges and using creative approaches to build innovative solutions.
-    <br>
+    <br><br>
     🌱 Currently diving into:
     <br>&emsp;
     - Game development with Unity
@@ -16,9 +16,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
     👯 Looking to collaborate on open-source projects
     <br>
     💡 Always excited to learn and create something new
-    <br>
-    <br>
-    <br>
+    <br><br><br>
 </p>
 
 ## My Skills Include

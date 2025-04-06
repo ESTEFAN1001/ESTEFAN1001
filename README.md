@@ -35,7 +35,7 @@ Computer Engineering student in the final stage of my degree. Passionate about s
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-025E8C?logo=amazondynamodb&logoColor=fff&style=flat"></a>
-  &emsp;
+  
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=fff&style=flat"></a>
 </p>
 

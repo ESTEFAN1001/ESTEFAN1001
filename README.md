@@ -2,7 +2,7 @@
 
 <img align="left" width=300px alt="Coding" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 <p align="left">
-Computer Engineering student in the final stage of my degree. Passionate about software development and constantly exploring new technologies. I enjoy tackling technical challenges and using creative approaches to build innovative solutions.
+Computer Engineering. Passionate about software development and constantly exploring new technologies. I enjoy tackling technical challenges and using creative approaches to build innovative solutions.
     <br><br>
     🌱 Currently diving into:
     <br>&emsp;

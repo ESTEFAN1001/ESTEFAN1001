@@ -56,12 +56,6 @@ Computer Engineering. Passionate about software development and constantly explo
   &emsp;
   <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a>
   &emsp;
-  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat"></a>
-  &emsp;
-  <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=fff&style=flat"></a>
-  &emsp;
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat"></a>

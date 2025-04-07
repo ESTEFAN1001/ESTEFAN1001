@@ -65,6 +65,8 @@ Computer Engineering student in the final stage of my degree. Passionate about s
   <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=fff&style=flat"></a>
   &emsp;
   <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat"></a>
+  &emsp;
+  <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"></a>
 </p>
 
 <p align="center">
